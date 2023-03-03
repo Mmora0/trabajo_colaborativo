@@ -1,0 +1,101 @@
+.body0{
+    background-color: rgba(207, 250, 18, 0.404);
+}
+
+h1{
+    font-family: 'Tilt Warp', cursive;
+    text-align: center;
+    color: yellow;
+    -webkit-text-stroke: 1px;
+    -webkit-text-stroke-color: blue;
+}
+
+hr{
+    border-color: aqua;
+    border-radius: 80%;
+    border-style: double;
+    
+
+}
+
+.span-html{
+    display: flex;
+    justify-content: center;
+    color: blue;
+    font-size: xx-large;
+    -webkit-text-stroke: 0.5px;
+    -webkit-text-stroke-color: rgb(247, 231, 6);
+}
+
+.span-css{
+    display: flex;
+    justify-content: center;
+    color: blue;
+    font-size: xx-large;
+    -webkit-text-stroke: 0.5px;
+    -webkit-text-stroke-color: rgb(247, 231, 6);
+}
+
+.span-git{
+    display: flex;
+    justify-content: center;
+    color: blue;
+    font-size: xx-large;
+    -webkit-text-stroke: 0.5px;
+    -webkit-text-stroke-color: rgb(239, 6, 247);
+}
+
+img{
+    display: flex;
+    justify-content: center;
+}
+
+.html{
+    background-color: rgba(247, 121, 36, 0.562);
+    margin-right: 35%;
+    margin-left: 35%;
+   
+
+}
+
+.css{
+    background-color: rgba(7, 65, 173, 0.507);
+    margin-right: 35%;
+    margin-left: 35%;
+}
+
+.git{
+    background-color: rgba(234, 238, 22, 0.521);
+    margin-right: 35%;
+    margin-left: 35%;
+}
+
+
+
+
+
+.body1{
+    background-color: rgba(255, 0, 0, 0.37);
+}
+.tabla1{
+    color: red ;
+    background-color: rgba(228, 215, 37, 0.822);
+    font-size: large;
+   
+}
+
+
+.inicio1{
+    color: darkgreen;
+    font-size: xx-large;
+}
+
+.texto1{
+    color: black;
+}
+
+button{
+
+    font-size: large;
+    color: red;
+}
